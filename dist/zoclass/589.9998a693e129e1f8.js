@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzoclass=self.webpackChunkzoclass||[]).push([[589],{8589:(E,n,o)=>{o.r(n),o.d(n,{HomeModule:()=>_});var m=o(6895),s=o(9683),a=o(8923),u=o(4650);let _=(()=>{class l{constructor(){console.log("home module load")}}return l.\u0275fac=function(e){return new(e||l)},l.\u0275mod=u.oAB({type:l}),l.\u0275inj=u.cJS({imports:[m.ez,s.u,a.S]}),l})()}}]);
